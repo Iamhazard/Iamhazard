@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amrit Acharya</h1>
 <h3 align="center">Frontend DEvs</h3>
-<img alig="right" alt='coding' width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhazard&label=Profile%20views&color=0e75b6&style=flat" alt="iamhazard" /> </p>
 
 - 🔭 I’m currently working on [Budget Tracer](https://github.com/Iamhazard/rupaiyan)
