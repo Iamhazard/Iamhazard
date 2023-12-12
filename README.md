@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Iamhazard](https://github.com/Iamhazard)
 
-- 💬 Ask me about **react,Next,Java,Mern,PHP**
+- 💬 Ask me about **React,Next,Java,Mern,PHP**
 
 - 📫 How to reach me **amrithazard@gmail.com**
 
