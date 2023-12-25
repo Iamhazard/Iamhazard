@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amrit Acharya</h1>
 <h3 align="center">Frontend DEvs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhazard&label=Profile%20views&color=0e75b6&style=flat" alt="iamhazard" /> </p>
 
-- 🔭 I’m currently working on [Budget Tracer](https://github.com/Iamhazard/rupaiyan)
-
-- 🌱 I’m currently learning **Next js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Iamhazard](https://github.com/Iamhazard)
-
-- 💬 Ask me about **React,Next,Java,Mern,PHP**
-
-- 📫 How to reach me **amrithazard@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
